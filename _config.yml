@@ -2,6 +2,7 @@
 menu:
   主页: /
   所有文章: /archives
+  hexo: /hexo
   # 随笔: /tags/随笔
 
 # SubNav
@@ -37,10 +38,10 @@ open_in_new: false
 
 # Miscellaneous
 google_analytics: ''
-favicon: /favicon.png
+favicon: favicon.png
 
 #你的头像url
-avatar:
+avatar: img/favicon.png
 #是否开启分享
 share_jia: true
 share_addthis: false
