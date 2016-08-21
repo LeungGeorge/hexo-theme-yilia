@@ -3,7 +3,7 @@ menu:
   主页: /
   所有文章: /archives
   hexo: /hexo
-  About: /about
+  about: /about
   # 随笔: /tags/随笔
 
 # SubNav
@@ -43,6 +43,8 @@ favicon: favicon.png
 
 #你的头像url
 avatar: img/favicon.png
+# https://avatars2.githubusercontent.com/u/9783818?v=3&s=460
+#img/favicon.png
 #是否开启分享
 share_jia: true
 share_addthis: false
