@@ -1,8 +1,9 @@
 # Header
 menu:
-  主页: /
-  所有文章: /archives
-  hexo: /hexo
+  Home: /
+  Archives: /archives
+  Hexo: /hexo
+  Ubuntu: /ubuntu
   About: /About
   # 随笔: /tags/随笔
 
